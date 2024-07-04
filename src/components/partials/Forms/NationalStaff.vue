@@ -15,7 +15,7 @@
                         <div class="col-sm-6">
                            <div class="row">
                               <div class="col-sm-6 text-center "><b>បង្រៀន</b></div>
-                              <div class="col-sm-6 text-center"><b>ជំនាញដើម/ឯកទេសnpm install -g netlify-cli</b></div>
+                              <div class="col-sm-6 text-center"><b>ជំនាញដើម/ឯកទេស</b></div>
                            </div>
                            <div class="row">
                               <div class="col-sm-3 text-center"><b>សរុប</b></div>
