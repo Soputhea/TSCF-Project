@@ -5,7 +5,7 @@
             <div class="col-12 grid-margin stretch-card">
                <div class="card">
                   <div class="card-body" style="font-size: 14px !important;">
-                     <h4 class="card-title">៤. សិស្សថ្មី សិស្សឡើងថ្នាក់ និងសិស្សត្រួតថ្នាក់ ផ្នែកអប់រំបច្ចេកទេស
+                     <h4 class="card-title">៤. ចំនួនបុគ្គលិកក្របខណ្ឌ
                      </h4>
                      <!-- header -->
                      <div class="row" style="border-bottom: 1px solid #000;">

@@ -10,8 +10,7 @@
               
               <!-- partial -->
               <router-view></router-view>
-              
-              
+            
               <!-- main-panel ends -->
           </div>
           <!-- page-body-wrapper ends -->
